@@ -1,91 +1,90 @@
-# hackerrank-dsa
-Solutions to DSA problems on hackerrank in different languages
 # 🧠 HackerRank DSA Solutions
+My DSA learning journey with solutions for HackerRank problems
 
-A structured collection of Data Structures & Algorithms solutions from [HackerRank](https://www.hackerrank.com/), organized by language and topic.
+🐍 Python — current solving language
+
+🟨 JavaScript, Java, TypeScript — solutions will also be written in these languages in their own folders in the repo.
 
 ---
 
-## 📁 Repository Structure
+## 📊 Progress Tracker
+
+Language | Easy | Medium | Hard | Total
+---|---|---|---|---
+Python | 0✅ | 0✅ | 0🔄 | 0
+Java | 0✅ | 0✅ | 0🔄 | 0
+
+Updated regularly as problems are solved.
+
+---
+
+## 🗂️ Topics (Python)
+
+\# | Topic | Problems Solved
+---|---|---
+1 | Arrays | XX
+2 | Strings | XX
+3 | Linked Lists | XX
+4 | Stacks & Queues | XX
+5 | Trees | XX
+6 | Graphs | XX
+7 | Dynamic Programming | XX
+8 | Sorting & Searching | XX
+9 | Recursion | XX
+10 | Greedy | XX
+
+---
+
+## 📁 Repo Structure
 
 ```
 hackerrank-dsa/
-├── python/
-│   ├── arrays/
-│   ├── strings/
-│   ├── linked_lists/
-│   ├── stacks_queues/
-│   ├── trees/
-│   ├── graphs/
-│   ├── dynamic_programming/
-│   ├── sorting_searching/
-│   ├── recursion/
-│   └── math/
-│
-├── java/
-│   ├── arrays/
-│   ├── strings/
-│   ├── linked_lists/
-│   ├── stacks_queues/
-│   ├── trees/
-│   ├── graphs/
-│   ├── dynamic_programming/
-│   ├── sorting_searching/
-│   ├── recursion/
-│   └── math/
-│
-└── (more languages coming...)
+   ├── python/
+   │   ├── arrays/
+   │   ├── strings/
+   │   ├── linked-lists/
+   │   ├── stacks-queues/
+   │   ├── trees/
+   │   ├── graphs/
+   │   ├── dynamic-programming/
+   │   ├── sorting-searching/
+   │   ├── recursion/
+   │   └── greedy/
+   │
+   └── java/
+       ├── arrays/
+       ├── strings/
+       ├── linked-lists/
+       ├── stacks-queues/
+       ├── trees/
+       ├── graphs/
+       ├── dynamic-programming/
+       ├── sorting-searching/
+       ├── recursion/
+       └── greedy/
 ```
 
 ---
 
-## 🗂️ Topics Covered
+## 🧩 Solution Format
 
-| Topic | Description |
-|---|---|
-| `arrays` | Array manipulation, sliding window, two pointers |
-| `strings` | String parsing, pattern matching, anagrams |
-| `linked_lists` | Singly/doubly linked lists, reversal, merging |
-| `stacks_queues` | Stack-based problems, queue simulations |
-| `trees` | Binary trees, BSTs, traversals, height |
-| `graphs` | BFS, DFS, shortest paths, connectivity |
-| `dynamic_programming` | Memoization, tabulation, classic DP problems |
-| `sorting_searching` | Sorting algorithms, binary search |
-| `recursion` | Recursive thinking, backtracking |
-| `math` | Number theory, primes, modular arithmetic |
-
----
-
-## 💻 Languages
-
-| Language | Folder | Status |
-|---|---|---|
-| Python 3 | [`/python`](./python) | 🟢 Active |
-| Java | [`/java`](./java) | 🟢 Active |
-
----
-
-## 📄 File Naming Convention
-
-Each solution file is named after the problem in `snake_case`:
-
-```
-two_sum.py
-reverse_linked_list.java
-count_triplets.py
-```
-
-Each file includes a header comment with context:
+Every file follows this structure:
 
 ```python
-# Problem: Two Sum
-# Link: https://www.hackerrank.com/challenges/...
-# Difficulty: Easy
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Problem: Name and Number on HackerRank
+# Difficulty: Easy / Medium / Hard
+# Link: https://www.hackerrank.com/challenges/####
+# Time Complexity: ##
+# Space Complexity: ##
+# Approach: Idea/algorithm used to solve the problem
 ```
 
 ---
+
+## 🔗 Resources
+
+- [HackerRank Profile](#) — [https://www.hackerrank.com/](https://www.hackerrank.com/profile/choudharyabhis17)
+
 
 ## 🚀 Getting Started
 
@@ -100,27 +99,6 @@ python3 two_sum.py
 cd java/arrays
 javac TwoSum.java && java TwoSum
 ```
-
----
-
-## 📊 Progress Tracker
-
-| Topic | Python | Java |
-|---|---|---|
-| Arrays | ⬜ | ⬜ |
-| Strings | ⬜ | ⬜ |
-| Linked Lists | ⬜ | ⬜ |
-| Stacks & Queues | ⬜ | ⬜ |
-| Trees | ⬜ | ⬜ |
-| Graphs | ⬜ | ⬜ |
-| Dynamic Programming | ⬜ | ⬜ |
-| Sorting & Searching | ⬜ | ⬜ |
-| Recursion | ⬜ | ⬜ |
-| Math | ⬜ | ⬜ |
-
-> Update ⬜ → 🟡 (in progress) → 🟢 (complete) as you go!
-
----
 
 ## 🤝 Contributing
 
