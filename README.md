@@ -11,7 +11,7 @@ My DSA learning journey with solutions for HackerRank problems
 
 Language | Easy | Medium | Hard | Total
 ---|---|---|---|---
-Python | 0✅ | 0✅ | 0🔄 | 0
+Python | 1✅ | 3✅ | 0🔄 | 4
 Java | 0✅ | 0✅ | 0🔄 | 0
 
 Updated regularly as problems are solved.
